@@ -6,7 +6,7 @@
 
 
 
-## 👣 최근에는 개인간 캠핑용품 대여 서비스개발 프로젝트를 진행했어요. 👀 [구경가기](https://campbu.cf) / [깃헙](https://github.com/codestates/Campbu) / [노션](https://www.notion.so/1-Code-Columbus-Campbu-055d9227c64d48f8a7462f7a087d75f1)
+## 👣 최근에는 개인간 캠핑용품 대여 서비스개발 프로젝트를 진행했어요. 👀 [바로가기](https://campbu.cf) / [깃헙](https://github.com/codestates/Campbu) / [노션](https://www.notion.so/1-Code-Columbus-Campbu-055d9227c64d48f8a7462f7a087d75f1)
 
 ## 🌱 요즘은 상태관리를 어썸하게 하기위해 Redux를 배우고있습니다.
 ## STACKS 
