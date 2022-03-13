@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?height=180&type=waving&color=0:9ADCFF,100:FFF89A&section=header&text=👋%20I'm%20홍인열&fontSize=70&fontAlignY=33)
 
 <div align="center">
-  <div>새로운 기술을 배우는게 재밌습니다.</div>
-  <div>클린코드, 효율적인코드를 짜려고 고민합니다.</div>
-  <div>긍정적입니다. 문제를 '나'로부터 찾습니다.</div>
-  <div>문제를 해결하는게 너무 즐겁습니다.</div>
-  <div>목표는 같이 일하고싶은 개발자입니다!!</div>
-  <div>협업하기 좋고, 텐션 좋고, 실력도 좋고🤩!</div>
+  <div> 새로운 기술을 배우는게 재밌습니다. </div>
+  <div> 클린코드, 효율적인코드를 짜려고 고민합니다. 🤔 </div>
+  <div> 긍정적입니다. 문제를 '나'로부터 찾습니다. </div>
+  <div> 문제를 해결하는게 너무 즐겁습니다. </div>
+  <div> 🤩 목표는 같이 일하고싶은 개발자입니다!! </div>
+  <div> 협업하기 좋고, 텐션 좋고, 실력도 좋고 😎! </div>
 <div> 
 
 
