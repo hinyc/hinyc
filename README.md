@@ -9,11 +9,9 @@
   <div> 협업하기 좋고, 텐션 좋고, 실력도 좋고 😎! </div>
 <div> 
 
-
-## TECH STACKS 
   
+  <h3> 👀 TECH STACKS </h3> 
  
-
 <p align="center">
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
