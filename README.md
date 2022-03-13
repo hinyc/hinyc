@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?height=180&type=waving&color=0:9ADCFF,100:FFF89A&section=header&text=👋%20I'm%20홍인열&fontSize=70&fontAlignY=33)
+![header](https://capsule-render.vercel.app/api?height=140&type=waving&color=0:9ADCFF,100:FFF89A&section=header&text=👋%20I'm%20홍인열&fontSize=40&fontAlignY=28)
 
 <div align="center">
   <div> 새로운 기술을 배우는게 재밌습니다. </div>
