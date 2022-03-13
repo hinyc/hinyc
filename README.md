@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?height=140&type=waving&color=0:9ADCFF,100:FFF89A&section=header&text=👋%20I'm%20홍인열&fontSize=40&fontAlignY=28)
+![header](https://capsule-render.vercel.app/api?height=100&type=waving&color=0:9ADCFF,100:FFF89A&section=header&&fontSize=40&fontAlignY=28)
 
+<h1 align='center'>👋 I'm 홍인열</h1>
 <div align="center">
   <div> 새로운 기술을 배우는게 재밌습니다. </div>
   <div> 클린코드, 효율적인코드를 짜려고 고민합니다. 🤔 </div>
