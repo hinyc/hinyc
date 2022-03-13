@@ -10,6 +10,9 @@
   <div> 협업하기 좋고, 텐션 좋고, 실력도 좋고 😎! </div>
 <div> 
 
+  <br/>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinyc&show_icons=true&title_color=E6D5B8&text_color=F0A500&icon_color=1B1A17)
   
   <h3> 👀 TECH STACKS </h3> 
  
@@ -31,7 +34,6 @@
 <img src="https://img.shields.io/badge/Axios-671cdf?style=round-square&logo=Axios&logoColor=white"/></a> &nbsp;
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinyc&show_icons=true&title_color=E6D5B8&text_color=F0A500&icon_color=1B1A17)
 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL&langs_count=4)](https://github.com/hinyc/github-readme-stats)
