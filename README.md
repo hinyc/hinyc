@@ -45,7 +45,7 @@
 </div>
 
 <p>
-    <b>Experience:</b> <span id="years-experience">3</span> years (<span id="start-date">May 2021</span> - Present)
+    <b>Experience:</b> <span id="years-experience">4</span> years (<span id="start-date">May 2021</span> - Present)
   </p>
 
 
