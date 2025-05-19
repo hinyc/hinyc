@@ -43,12 +43,12 @@
     </tr>
   </table>
 </div>
-  
-<img src="https://img.shields.io/badge/ReactRouter-darkgray?style=round-square&logo=React-Router&logoColor=#CA4245"/></a> &nbsp;
-<img src="https://img.shields.io/badge/StyledComponents-9999FF?style=round-square&logo=Styled-Components&logoColor=DB7093"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Recoil-3777e5?style=round-square&logo=Recoil&logoColor=DB7093"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Emotion-d36ac2?style=round-square&logo=Emotion&logoColor=DB7093"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Axios-671cdf?style=round-square&logo=Axios&logoColor=white"/></a> &nbsp;
+
+<p>
+    <b>Experience:</b> <span id="years-experience">3</span> years (<span id="start-date">May 2021</span> - Present)
+  </p>
+
+
 
   
 
