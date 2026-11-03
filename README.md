@@ -1,59 +1,30 @@
-![header](https://capsule-render.vercel.app/api?height=100&type=waving&color=0:9ADCFF,100:FFF89A&section=header&&fontSize=40&fontAlignY=28)
+<h1 align="center">홍인열 · hinyc</h1>
 
-<h1 align='center'>👋 I'm 홍인열</h1>
-<div align="center">
-  <div> 새로운 기술을 배우는게 재밌습니다. </div>
-  <div> 클린코드, 효율적인코드를 짜려고 고민합니다. 🤔 </div>
-  <div> 긍정적입니다. 문제를 '나'로부터 찾습니다. </div>
-  <div> 문제를 해결하는게 너무 즐겁습니다. </div>
-  <div> 🤩 목표는 같이 일하고싶은 개발자입니다!! </div>
-  <div> 협업하기 좋고, 텐션 좋고, 실력도 좋고 😎! </div>
-<div> 
+<p align="center">
+  프론트엔드 개발자 · 2021.05 ~ 현재<br/>
+  요즘은 코드를 직접 치기보다 <b>AI 에이전트가 일하는 방식</b>을 설계합니다.
+</p>
 
-  <br/>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinyc&show_icons=true&title_color=E6D5B8&text_color=F0A500&icon_color=1B1A17)
-  
-  <h3> 👀 TECH STACKS </h3> 
+---
 
-<div align="center">
-  <h2>🚀 Technology Stack</h2>
-  <table>
-    <tr>
-      <td align="center"><strong>Frontend</strong></td>
-      <td align="center">
-        <code>Next.js</code> •
-        <code>React</code> •
-        <code>TypeScript</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>Styling</strong></td>
-      <td align="center">
-        <code>Tailwind CSS</code>
-        <code>Emotion</code>
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>State Management</strong></td>
-      <td align="center">
-        <code>React Query</code>
-        <code>Zustand</code>
-      </td>
-    </tr>
-  </table>
-</div>
+## 👋 소개
 
-<p>
-    <b>Experience:</b> <span id="years-experience">4</span> years (<span id="start-date">May 2021</span> - Present)
-  </p>
+- 업무 화면, 관리자 도구, 문서 자동화처럼 **실제로 쓰는 사람이 있는 소프트웨어**를 만듭니다.
+- 반복되는 일을 보면 참지 못하고 **스킬·플러그인·스크립트로 만들어 둡니다.**
+- 문제가 생기면 먼저 **원인을 끝까지 파고듭니다.** 증상만 덮는 수정은 하지 않습니다.
+- 클린코드, 효율적인 코드를 고민하고, 같이 일하고 싶은 개발자가 되는 게 목표입니다.
 
+## 🛠 만들고 있는 것
 
+| 프로젝트 | 설명 |
+|---|---|
+| [**Conceptpowers**](https://github.com/hinyc/Conceptpowers) | AI 코딩 에이전트용 개념 주도 개발(CDD) 거버넌스. 코드를 바꾸기 전에 개념(규칙)을 먼저 정의하고, 커밋 시점에 개념·코드·근거가 함께 움직였는지 검사합니다. |
+| [**armory**](https://github.com/hinyc/armory) | 개인 업무용 Claude Code 플러그인. 커밋 메시지, 이슈 작성·정리, 진행 대시보드, 화면설계서 자동 생성 스킬 모음. |
+| [**just-init**](https://github.com/hinyc/just-init) | 바이브 코딩용 Next.js 풀스택 보일러플레이트. 새 프로젝트 셋업을 한 번에 끝냅니다. |
 
-  
+## 🧭 요즘 관심사
 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=GLSL&langs_count=4)](https://github.com/hinyc/github-readme-stats)
-
-  
- 
+- **에이전트 워크플로우**: 서브에이전트 병렬 실행, 세션 간 협업, 역할별 에이전트 분리
+- **AI가 만든 결과물의 검증**: 사람이 규칙을 소유하고, AI는 그 규칙 안에서만 움직이게 하는 구조
+- **문서·화면설계서·매뉴얼 자동화**: Playwright로 실제 화면을 찍고 코드 기반으로 설명 생성
+- **이슈·티켓 운영**: 개발자가 바로 시작할 수 있는 형태로 정리하는 습관
